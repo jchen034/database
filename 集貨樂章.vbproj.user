@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="主畫面.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="付款確認.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="個人資料.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="初始介面.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="新增訂單.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="新增訂單msgbox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="查看詳情.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="查詢訂單.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="查看物流進度.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="物流整合.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="物流跳轉.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="登入.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="訂單確認.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="註冊.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
